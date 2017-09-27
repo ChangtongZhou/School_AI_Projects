@@ -14,13 +14,21 @@ Specification:
 Nario is an upwardly mobile video game character. When presented a n x m, text-based maze, Nario always strives to climb to the top floor using the A*-algorithm. Below is an example of the kind of maze Nario might appear in:
 
 #.........          
+
 =.======.=
+
 ..=.......      
+
 ====.=====
+
 ........=.
+
 =.=====.==
+
 =.........
+
 ==.=======
+
 .....@....
 
 The meaning of this Nario maze is as follows:
