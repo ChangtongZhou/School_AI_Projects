@@ -22,6 +22,7 @@ Nario is an upwardly mobile video game character. When presented a n x m, text-b
 =.........
 ==.=======
 .....@....
+
 The meaning of this Nario maze is as follows:
 
 In the above Nario, is represented by the @.
